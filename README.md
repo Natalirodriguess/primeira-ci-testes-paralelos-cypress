@@ -1,1 +1,1 @@
-# primeira-ci-testes-paralelos-cypress git add README.md git commit -m primeiro commit git branch -M main git remote add origin https://github.com/Natalirodriguess/primeira-ci-testes-paralelos-cypress.git
+# primeira-ci-testes-paralelos-cypress
