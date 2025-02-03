@@ -1,0 +1,22 @@
+{
+  "name": "primeira-ci-testes-paralelos-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open":"cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natalirodriguess/primeira-ci-testes-paralelos-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Natalirodriguess/primeira-ci-testes-paralelos-cypress/issues"
+  },
+  "homepage": "https://github.com/Natalirodriguess/primeira-ci-testes-paralelos-cypress#readme"
+}
