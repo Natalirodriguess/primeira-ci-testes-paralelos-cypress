@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Natalirodriguess/primeira-ci-testes-paralelos-cypress/issues"
   },
+  "devDependencies": {
+  "cypress": "^14.0.1"
+},
   "homepage": "https://github.com/Natalirodriguess/primeira-ci-testes-paralelos-cypress#readme"
 }
